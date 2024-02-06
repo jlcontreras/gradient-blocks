@@ -16,4 +16,4 @@ Gradient Blocks was imagined, designed and developed by Jose Contreras.
 
 Music by Pablo Gómez Benito (IG: @pablogomezbenito)
 
-![Feature graphic](https://github.com/jlcontreras/gradient-blocks/assets/6729452/6d99d47a-d973-471e-914c-d8434a25b237)
+![pages-footer](https://github.com/jlcontreras/gradient-blocks/assets/6729452/d700b743-2c87-461a-9ba7-4bf485049544)
