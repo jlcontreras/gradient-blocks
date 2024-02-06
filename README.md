@@ -1,5 +1,5 @@
-# Gradient-blocks
-Home for Gradient Blocks related stuff 
+# Gradient Blocks
+Hi, this is Gradient Blocks' online home. If you have any comments regarding app issues, general feedback or feature enhancement request, please feel free to contact me at mails[dot]rjgames[at]gmail[dot]com. 
 
 ## Privacy policy
 As an Android user myself, I take privacy very seriously.
