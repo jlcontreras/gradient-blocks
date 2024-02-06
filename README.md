@@ -1,3 +1,5 @@
+<link rel="icon" type="image/png" href="./favicon.png">
+
 ![title_small](https://github.com/jlcontreras/gradient-blocks/assets/6729452/e6ed359d-01c1-4d0f-9cec-84f70dd8b495)
 
 
