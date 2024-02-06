@@ -1,4 +1,5 @@
-![Gradient Blocks title image](https://github.com/jlcontreras/gradient-blocks/blob/2780fe7ed7a111d7daab808548cd7953cdccc8fe/titulo.png?raw=true)
+![title_small](https://github.com/jlcontreras/gradient-blocks/assets/6729452/e6ed359d-01c1-4d0f-9cec-84f70dd8b495)
+
 
 Hi, this is Gradient Blocks' online home. If you have any comments regarding app issues, general feedback or feature enhancement request, please feel free to contact me at mails[dot]rjgames[at]gmail[dot]com. 
 
@@ -15,5 +16,4 @@ Gradient Blocks was imagined, designed and developed by Jose Contreras.
 
 Music by Pablo Gómez Benito (IG: @pablogomezbenito)
 
-
-![Gradient Blocks feature graphic](https://github.com/jlcontreras/gradient-blocks/blob/2780fe7ed7a111d7daab808548cd7953cdccc8fe/feature_graphic_3.jpg?raw=true)
+![Feature graphic](https://github.com/jlcontreras/gradient-blocks/assets/6729452/6d99d47a-d973-471e-914c-d8434a25b237)
