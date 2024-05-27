@@ -7,7 +7,7 @@ A beautiful, relaxing color puzzle that will test your perception and logic skil
  - Platforms: Android/iOS
  - Price: Free (includes IAP to remove ads)  
 
-
+<br/>
 
 ## Description
 
@@ -15,7 +15,7 @@ Test your color perception and logic skills throughout 150 elegantly handcrafted
 
 Don't be fooled by its cute looks though, behind the apparent simplicity hides a tricky game! Those who enjoy a challenge will certainly be delighted by the subtle intrincacies and perceptive nuances that arise as you progress through the game.  
 
-
+<br/>
 
 Features:
 
@@ -25,13 +25,13 @@ Features:
 * Soft and soothing custom made soundtrack
 * Fully offline gameplay - no internet needed  
 
-
+<br/>
 
 ## Video Trailer
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L71Tqh7m-tU?si=pYmpTxH4ARlNqXAy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
-
+<br/>
 
 ## Images
 
