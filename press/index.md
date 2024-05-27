@@ -33,17 +33,17 @@ Features:
 Download all images as a compressed file: [Download images link](https://drive.google.com/file/d/1i5zyFAJZjZXpNb2_UGz400cnAhWW0npK/view?usp=sharing)
 
 <p float="left">
-  <img src="img/img1.png" width="24%" />
-  <img src="img/img2.png" width="24%" /> 
-  <img src="img/img3.png" width="24%" />
-  <img src="img/img4.png" width="24%" />
+  <img src="img/img1.jpg" width="24%" />
+  <img src="img/img2.jpg" width="24%" />
+  <img src="img/img3.jpg" width="24%" />
+  <img src="img/img4.jpg" width="24%" />
 </p>
 
 
 <p float="left">
-  <img src="img/img5.png" width="24%" />
-  <img src="img/img6.png" width="24%" /> 
-  <img src="img/img7.png" width="24%" />
-  <img src="img/img8.png" width="24%" />
+  <img src="img/img5.jpg" width="24%" />
+  <img src="img/img6.jpg" width="24%" /> 
+  <img src="img/img7.jpg" width="24%" />
+  <img src="img/img8.jpg" width="24%" />
 </p>
 
